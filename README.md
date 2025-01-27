@@ -1,4 +1,5 @@
 # PIM-III-2024
+
 📌Descrição
 
 Este repositório tem o objetivo a postagem do PIM III 2024. ESte trabalho desenvolvido teve como base o tema a baixo.
@@ -13,18 +14,24 @@ As ferramentas utilizadas para o desenvolvimento da análise do projeto foram as
 
 • Astah - diagramas UML 
 
+• Figma - para prototipagem do projeto
+
+• Windows Forms - Interface de C-R-U-D
+
 • Metodologia scrum - auxiliar na organização da entrega das atividades por meio das sprints
 
 -----
 
 🔗Integrantes
 
-João Victor Ramos do Nascimento G7308C1
+João Victor Ramos do Nascimento
 
-Nathalia Jacque Mendes Lima R025063
+Matheus Miranda
 
-Renan Pereira Diniz N921714
+Nathalia Jacque Mendes Lima 
 
-Ruan dos Santos Oliveira N066CF4
+Renan Pereira Diniz 
 
-Vitor Antony de Marchi Castro G775AG7
+Ruan dos Santos Oliveira
+
+Vitor Antony de Marchi Castro
